@@ -21,7 +21,7 @@ const MainSection = () => (
       <SectionText>
         I am a Software Engineer | Open to New Opportunities!
       </SectionText>
-      <Button><a download href="/resume.pdf">Download Resume</a></Button>
+      <Button><a download href="/Hermela Resume.pdf">Download Resume</a></Button>
     </LeftSection>
   </Section>
 );
