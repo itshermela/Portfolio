@@ -1,55 +1,57 @@
 export const projects = [
   {
+    title: "Netflix Clone App",
+    description:
+      "This is a Netflix clone application made with React (and JavaScript ES6+) which mimics the original Netflix web app",
+    image: "/images/netflix.png",
+    bname: "View Code on Github",
+    visit: "https://github.com/itshermela/netflix-clone",
+    id: 0,
+  },
+  {
+    title: "Shop Habesha",
+    description:
+      "Habesha clothing e-commerce web site built using Next.JS, Xata, Cloudinary, CSS modules, Redux Toolkit and Redux Persist for state management. It includes products screen, cart, and checkout.",
+    image: "/images/habesha.png",
+    bname: "View Code on Github",
+    visit: "https://github.com/itshermela/shop-habesha",
+    id: 1,
+  },
+  {
     title: "Face Recognition Project to aid visually impaired persons",
     description:
       "This project is mainly used for visually impaired persons to help them recognize who is standing infront of the web camera. It also captures new faces, records his/her name in .wav format and then translates the recorded name into text to store the new face data in the dataset.",
     image: "/images/istockphoto-514911239-612x612.jpg",
-    //source: "https://google.com",
     bname: "View Code on Github",
     visit: "https://github.com/herget28/Face-Recognition-Project",
-    id: 0,
-  },
-  {
-    title: "Ecommerce Shopping Cart",
-    description:
-      "This shopping cart software is a piece of e-commerce software that allows visitors to have an Internet site to select items for eventual purchase. The software allows online shopping customers to accumulate a list of items for purchase",
-    image: "/images/Shopping.png",
-    //source: "https://google.com",
-    bname: "View Webite",
-    visit: "https://shiny-semifreddo-6a58ad.netlify.app/",
-    id: 1,
-  },
-  {
-    title: "Personal Website Portfolio",
-    description:
-      "This is my personal portfolio project which I developed using react.js to help me show my work and let others know about myself.",
-    image: "/images/Capture.PNG",
-    bname: "View Code on Github",
-    visit: "https://google.com",
     id: 2,
   },
 ];
 
 export const AboutMeData = [
-  { year: 2017, text: "Started my journey by studying Software Engineering" },
+  { year: 2017, text: "Started my journey by studying Software Engineering in Bahir Dar University, Ethiopia" },
   {
     year: 2019,
-    text: "Worked as an Intern Software programmer in ITSC, Microsoft Certified Technical Education Center",
+    text: "Worked as an Intern Software developer in ITSC, Microsoft Certified Technical Education Center in Addis Ababa, Ethiopia",
   },
   {
     year: 2020,
-    text: "Worked as Data encoder for Agri-business Induced Growth Programme Monitoring and Evaluation Unit PLC",
+    text: "Worked as Software Developer for Jano Trading Center in Bahir Dar, Ethiopia",
   },
   {
     year: 2021,
-    text: "Successfully Completed my Bachelor Degree Program in Software Engineering",
+    text: "Successfully Completed my Bachelor Degree Program in Software Engineering at Bahir Dar University, Ethiopia",
   },
   {
     year: 2021,
-    text: "Worked as a Junior Software Engineer for WLRC-AAU in Addis Ababa, Ethiopia",
+    text: "Worked as a Software Developer for WLRC-AAU in Addis Ababa, Ethiopia",
   },
   {
     year: 2022,
-    text: "Working as a Quality Assurance Software Engineer for Tern Systems in Bahir Dar, Ethiopia",
+    text: "Successfully Completed my Bachelor Degree Program in Management in Bahir Dar, Ethiopia",
+  },
+  {
+    year: 2022,
+    text: "Working as a Quality Assurance Engineer (QAE) for Tern Systems in Bahir Dar, Ethiopia",
   },
 ];

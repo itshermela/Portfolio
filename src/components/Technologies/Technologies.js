@@ -1,5 +1,5 @@
 import React from "react";
-import {DiDatabase, DiPython, DiReact } from "react-icons/di";
+import {DiCss3, DiPython, DiReact, DiJavascript } from "react-icons/di";
 import {
   Section,
   SectionDivider,
@@ -19,36 +19,35 @@ const Technologies = () => (
     <SectionDivider />
     <br />
     <SectionTitle>Technologies</SectionTitle>
-    <SectionText>
-      I am working on web development, Database tecnologies, Machine
-      learning areas, and Software development & testing in general.
-    </SectionText>
     <List>
       <ListItem>
-        <DiReact size="3rem" />
+        <DiJavascript size="3rem" />
         <ListContainer>
-          <ListTitle>Web</ListTitle>
-          <ListParagraph>
-            Experience With javascript and <br />
-            react.js framework
-          </ListParagraph>
+          <ListTitle>JavaScript</ListTitle>
         </ListContainer>
       </ListItem>
       <ListItem>
-        <DiDatabase size="3rem" />
+        <DiReact size="3rem" />
         <ListContainer>
-          <ListTitle>Database Technologies</ListTitle>
-          <ListParagraph>
-            Experience With <br />
-            MySQL, Oracle
-          </ListParagraph>
+          <ListTitle>React.js</ListTitle>
+        </ListContainer>
+      </ListItem>
+      <ListItem>
+        <DiReact size="3rem" />
+        <ListContainer>
+          <ListTitle>Next.js</ListTitle>
         </ListContainer>
       </ListItem>
       <ListItem>
         <DiPython size="3rem" />
         <ListContainer>
-          <ListTitle>Machine learning in Python</ListTitle>
-          <ListParagraph>Experience With Tensor Flow</ListParagraph>
+          <ListTitle>Python</ListTitle>
+        </ListContainer>
+      </ListItem>
+      <ListItem>
+        <DiCss3 size="3rem" />
+        <ListContainer>
+          <ListTitle>Tailwind CSS</ListTitle>
         </ListContainer>
       </ListItem>
     </List>

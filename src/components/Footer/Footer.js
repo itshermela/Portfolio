@@ -19,12 +19,14 @@ const Footer = () => {
     <FooterWrapper>
       <LinkList>
         <LinkColumn>
-          <LinkTitle>Call</LinkTitle>
-          <LinkItem href="tel:93 438 7123">+251 93 438 7123</LinkItem>
+          <LinkTitle>LinkedIn</LinkTitle>
+          <LinkItem href="https://www.linkedin.com/in/hermela-getnet-407ab9211">
+            Hermela Getnet
+          </LinkItem>
         </LinkColumn>
         <LinkColumn>
           <LinkTitle>Email</LinkTitle>
-          <LinkItem href="mailto:hermelagetnet90@gmail.com">
+          <LinkItem href="mailto:hermelagetbel@gmail.com">
             hermerlagetnet90@gmail.com
           </LinkItem>
         </LinkColumn>
@@ -36,13 +38,13 @@ const Footer = () => {
           </Slogan>
         </CompanyContainer>
         <SocialContainer>
-          <SocialIcons href="https://github.com">
+          <SocialIcons href="https://github.com/itshermela">
             <AiFillGithub size="3rem" />
           </SocialIcons>
-          <SocialIcons href="https://linkedin.com">
+          <SocialIcons href="https://www.linkedin.com/in/hermela-getnet-407ab9211">
             <AiFillLinkedin size="3rem" />
           </SocialIcons>
-          <SocialIcons href="https://skype.com">
+          <SocialIcons href="https://join.skype.com/invite/Mn5FiesB1Aav">
             <AiFillSkype size="3rem" />
           </SocialIcons>
         </SocialContainer>

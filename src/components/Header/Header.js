@@ -17,16 +17,7 @@ const Header = () => (
   <Container>
     <Div1>
       <Link href="/">
-        <a
-          style={{
-            display: "flex",
-            alignItems: "center",
-            color: "white",
-            marginBottom: "110px",
-          }}
-        >
           <DiCodeigniter size="3rem" /> <Span>Portfolio</Span>
-        </a>
       </Link>
     </Div1>
     <Div2>
@@ -47,13 +38,13 @@ const Header = () => (
       </li>
     </Div2>
     <Div3>
-      <SocialIcons href="https://github.com">
+      <SocialIcons href="https://github.com/itshermela">
         <AiFillGithub size="3rem" />
       </SocialIcons>
-      <SocialIcons href="https://linkedin.com">
+      <SocialIcons href="https://www.linkedin.com/in/hermela-getnet-407ab9211">
         <AiFillLinkedin size="3rem" />
       </SocialIcons>
-      <SocialIcons href="https://skype.com">
+      <SocialIcons href="https://join.skype.com/invite/Mn5FiesB1Aav">
         <AiFillSkype size="3rem" />
       </SocialIcons>
     </Div3>

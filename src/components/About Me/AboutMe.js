@@ -67,12 +67,9 @@ const AboutMe = () => {
       <br />
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-        My full name is Hermela Getnet, a Software Engineer who recently
-        graduated in Bachelor Degree program of Software Engineering. I have a
-        good experience in solving real-world problems using my programming
-        skills. I am seeking a position as a Software Engineer to grow my
-        programming skills and contribute a lot for help seekers all over the
-        world.
+      I'm a passionate and hardworking software developer from Ethiopia who is currently working as a QAE in Tern Systems. 
+      I'm highly interested in frontend technologies, software testing, and machine learning. 
+      My main focus these days is web development (mostly TypeScript, Next.js, and React.js).
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>

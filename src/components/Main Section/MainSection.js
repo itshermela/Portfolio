@@ -19,7 +19,7 @@ const MainSection = () => (
         My Personal Portfolio
       </SectionTitle>
       <SectionText>
-        I am a Software Engineer | Open to New Opportunities!
+        I am a Software Developer | Open to New Opportunities!
       </SectionText>
       <Button><a download href="/Hermela Resume.pdf">Download Resume</a></Button>
     </LeftSection>

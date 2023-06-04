@@ -11,8 +11,36 @@ const MyAccomplishments = () => (
     <SectionTitle>My Accomplishments</SectionTitle>
 
     <SectionText>
-      -Completed my Bachelor Degree in Software Engineering with 'VERY GREAT
+      -Completed Bachelor Degree in Software Engineering with 'VERY GREAT
       DISTINICTION' of CGPA 3.82.
+      <br />
+      -Completed Bachelor Degree in Management.
+      <br />-
+      <a
+        style={{
+          textUnderlineOffset: 0,
+          textDecorationLine: "underline",
+          textDecorationStyle: "solid",
+          textDecorationColor: "gold",
+          color: "gold",
+        }}
+        href="https://www.coursera.org/account/accomplishments/certificate/63RLBK2ZSVW5"
+      >
+        Coursera Certificate in Programming With JavaScript
+      </a>{" "}
+      <br />-
+      <a
+        style={{
+          textUnderlineOffset: 0,
+          textDecorationLine: "underline",
+          textDecorationStyle: "solid",
+          textDecorationColor: "gold",
+          color: "gold",
+        }}
+        href="https://www.coursera.org/account/accomplishments/certificate/E7QCUZE5DBLF"
+      >
+        Coursera Certificate in React Basics
+      </a>{" "}
       <br />-
       <a
         style={{
@@ -26,61 +54,6 @@ const MyAccomplishments = () => (
       >
         Microsoft Certified Azure Data Scientist Associate
       </a>{" "}
-      <br />-
-      <a
-        style={{
-          textUnderlineOffset: 0,
-          textDecorationLine: "underline",
-          textDecorationStyle: "solid",
-          textDecorationColor: "gold",
-          color: "gold",
-        }}
-        href="https://github.com"
-      >
-        Certificate
-      </a>{" "}
-      in Oracle Database 11g: SQL Fundamentals.
-      <br />-
-      <a
-        style={{
-          textUnderlineOffset: 0,
-          textDecorationLine: "underline",
-          textDecorationStyle: "solid",
-          textDecorationColor: "gold",
-          color: "gold",
-        }}
-        href="https://github.com"
-      >
-        Certificate
-      </a>{" "}
-      in Oracle 12c Database: Administration Workshop. <br />-
-      <a
-        style={{
-          textUnderlineOffset: 0,
-          textDecorationLine: "underline",
-          textDecorationStyle: "solid",
-          textDecorationColor: "gold",
-          color: "gold",
-        }}
-        href="https://github.com"
-      >
-        Certificate
-      </a>{" "}
-      in Oracle Java SE 8 Programmer 1.
-      <br />-
-      <a
-        style={{
-          textUnderlineOffset: 0,
-          textDecorationLine: "underline",
-          textDecorationStyle: "solid",
-          textDecorationColor: "gold",
-          color: "gold",
-        }}
-        href="https://github.com"
-      >
-        Certificate
-      </a>{" "}
-      in Oracle Java EE 7 Application Developer.
       <br />
     </SectionText>
   </Section>
