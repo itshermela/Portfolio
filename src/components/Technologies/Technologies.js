@@ -1,5 +1,5 @@
 import React from "react";
-import {DiCss3, DiPython, DiReact, DiJavascript } from "react-icons/di";
+import {DiCss3, DiPython, DiReact, DiJavascript, Dijava } from "react-icons/di";
 import {
   Section,
   SectionDivider,
@@ -20,6 +20,12 @@ const Technologies = () => (
     <br />
     <SectionTitle>Technologies</SectionTitle>
     <List>
+    <ListItem>
+        <DiPython size="3rem" />
+        <ListContainer>
+          <ListTitle>Python</ListTitle>
+        </ListContainer>
+      </ListItem>
       <ListItem>
         <DiJavascript size="3rem" />
         <ListContainer>
@@ -39,9 +45,9 @@ const Technologies = () => (
         </ListContainer>
       </ListItem>
       <ListItem>
-        <DiPython size="3rem" />
+        <Dijava size="3rem" />
         <ListContainer>
-          <ListTitle>Python</ListTitle>
+          <ListTitle>Java</ListTitle>
         </ListContainer>
       </ListItem>
       <ListItem>

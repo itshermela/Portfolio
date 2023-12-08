@@ -52,6 +52,6 @@ export const AboutMeData = [
   },
   {
     year: 2022,
-    text: "Working as a Quality Assurance Engineer (QAE) for Tern Systems in Bahir Dar, Ethiopia",
+    text: "Working remotely as a Quality Assurance Engineer (QAE) for Tern Systems located in Iceland",
   },
 ];

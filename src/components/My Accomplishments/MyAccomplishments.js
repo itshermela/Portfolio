@@ -11,10 +11,10 @@ const MyAccomplishments = () => (
     <SectionTitle>My Accomplishments</SectionTitle>
 
     <SectionText>
-      -Completed Bachelor Degree in Software Engineering with 'VERY GREAT
+      -Completed Bachelor of Science in Software Engineering with 'VERY GREAT
       DISTINICTION' of CGPA 3.82.
       <br />
-      -Completed Bachelor Degree in Management.
+      -Completed Bachelor of Arts in Management.
       <br />-
       <a
         style={{

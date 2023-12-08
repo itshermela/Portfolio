@@ -67,9 +67,8 @@ const AboutMe = () => {
       <br />
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-      I'm a passionate and hardworking software developer from Ethiopia who is currently working as a QAE in Tern Systems. 
-      I'm highly interested in frontend technologies, software testing, and machine learning. 
-      My main focus these days is web development (mostly TypeScript, Next.js, and React.js).
+      I'm a passionate and hardworking QA Engineer and Software developer from Ethiopia, currently working as a QA Engineer in Tern Systems Company. 
+      I'm highly interested in automation testing, quality assurance, software testing, frontend technologies, and machine learning.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
